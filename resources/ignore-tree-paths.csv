@@ -1,0 +1,7 @@
+PATH
+.idea
+.git
+.vscode
+dist
+node_modules
+test
